@@ -1,0 +1,11 @@
+/build*
+/target*
+/coding*
+*.war
+*.class
+
+#eclipse
+.project
+.metadata
+.classpath
+.settings/
